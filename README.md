@@ -8,7 +8,7 @@ En mi sitio web, podrás encontrar una gran variedad de **recursos educativos**,
 
 ## 📚 Recursos disponibles
 
-Mi objetivo es crear un espacio donde **docentes y estudiantes** descubran recursos interesantes, así como compartir el material que utilizo en mis clases. Explora mi web, mi página de [recursos](https://sites.google.com/view/jmprof/recursos) y este GitHub por si encuentras algo valioso.
+Mi objetivo es crear un espacio donde **docentes y estudiantes** descubran recursos interesantes, así como compartir el material que utilizo en mis clases.
 
 ¡Gracias por visitar mi página de GitHub! Espero que localices algo de utilidad aquí, en [mi página web](https://jmprof.es) o en ni página de [recursos](https://sites.google.com/view/jmprof/recursos). 👨‍💻✨
 
